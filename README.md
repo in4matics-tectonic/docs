@@ -1,3 +1,6 @@
+# PROOF OF CONCEPT
+https://34-23-164-33.sslip.io/#overview 
+
 # KBC Momentum
 
 **Het levenslandschap dat meedenkt.** KBC Momentum ziet een nieuw levensmoment aankomen voordat de klant erom vraagt. Kate 2.0 staat dan klaar met één gebundeld plan, dat grotendeels via Straight-Through Processing verloopt.
