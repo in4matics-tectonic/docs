@@ -27,15 +27,23 @@ Team **in4matics** · Tectonic Hackathon · KBC-challenge · september 2026
 
 ## De oplossing: het levenslandschap
 
-Elk element in het landschap staat voor een levensdomein: 🏠 huis · 👪 gezin · 🚗 auto · ☂️ bescherming · 🌳 sparen en beleggen · ☀️ gezondheid · ⛺ reizen.
+# Onze oplossing
 
-| Markering | Betekenis |
-|---|---|
-| ✅ Vinkje | Dit domein is goed geregeld bij KBC |
-| ❓ Vraagteken | Kate ziet een gat of een kans |
-| ⭕ Gestippelde figuur met gloed | Er is een nieuw levensmoment op komst |
+**KBC** Momentum geeft de klant een **persoonlijk levenslandschap** in **KBC** Mobile: een getekende wereld met een huis, een gezin, een auto, een spaarboom en een paraplu voor bescherming. In één oogopslag ziet de klant wat goed geregeld is, waar er nog een gat zit en welk nieuw moment eraan komt.
 
-Onderaan staat de balk **"Vraag het je wereld"**, met chips per domein die Kate openen voor dat domein. Zo wordt personalisatie zichtbaar in plaats van een onzichtbaar algoritme.
+Achter dat landschap zit een slimme motor. Die herkent een levensmoment al **maanden op voorhand**, op basis van kleine aanwijzingen: een aankoop in een babywinkel, een inschrijving bij een kinderopvang, een vraag aan de eigen AI-assistent. Eén aanwijzing zegt weinig, maar samen vormen ze een duidelijk beeld.
+
+## Hoe het werkt, in 3 stappen
+
+1. **Herkennen.** Elke aanwijzing verhoogt een score voor een levensmoment, bijvoorbeeld *gezinsuitbreiding*. **KBC** gebruikt enkel bronnen waarvoor de klant toestemming gaf.
+2. **Eerst vragen.** Bij 70% verschijnt er een klein, gestippeld figuurtje in het landschap. Kate, de digitale assistent van **KBC**, vraagt voorzichtig: **Klopt het dat jullie gezin groter wordt?** Ze verkoopt niets zonder bevestiging.
+3. **Alles regelen.** Zegt de klant *ja*, dan krijgt hij één overzichtelijk plan: het kindje meeverzekeren, een spaarrekening voor het kind openen, het Groeipakket aanvragen. Met één tik voert Kate alles automatisch uit, zonder formulieren en zonder wachten.
+
+## Wat KBC ermee wint
+
+- **Eerder bij de klant.** **KBC** helpt op het moment dat het ertoe doet, niet achteraf.
+- **Werkt voor 2,3 miljoen klanten.** Het systeem draait automatisch voor iedereen. Een adviseur komt er alleen bij voor complexe vragen.
+- **Vertrouwen staat centraal.** De klant kiest zelf welke gegevens meespelen, ziet altijd waarom Kate iets voorstelt en kan met één tik zeggen: **Dit klopt niet, wis het.**
 
 ## Demo: Tom en Lien verwachten een kindje
 
